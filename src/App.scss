@@ -10,3 +10,21 @@
   flex-direction: column;
   background-color: #dad;
 }
+
+.default {
+  background-color: #afa;
+}
+
+.dark {
+  background-color: #333;
+}
+
+.task-13 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-self: stretch;
+  flex-wrap: wrap;
+  min-width: 50%;
+  min-height: 50%;
+}
